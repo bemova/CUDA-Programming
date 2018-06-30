@@ -5,5 +5,5 @@ This repository contains some famous samples which are written in CUDA programmi
 
 
 ### For compiling each code you can use this command:
-### $ nvcc <cuda file name> 
+### $ nvcc ```<cuda file name> ```
 ### $ ./a.out
